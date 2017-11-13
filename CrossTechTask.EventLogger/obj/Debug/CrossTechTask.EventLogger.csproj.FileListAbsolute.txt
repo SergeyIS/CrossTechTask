@@ -1,0 +1,7 @@
+D:\dev\CrossTechTask\CrossTechTask.EventLogger\bin\Debug\CrossTechTask.EventLogger.dll
+D:\dev\CrossTechTask\CrossTechTask.EventLogger\bin\Debug\CrossTechTask.EventLogger.pdb
+D:\dev\CrossTechTask\CrossTechTask.EventLogger\obj\Debug\CrossTechTask.EventLogger.csprojResolveAssemblyReference.cache
+D:\dev\CrossTechTask\CrossTechTask.EventLogger\obj\Debug\CrossTechTask.EventLogger.dll
+D:\dev\CrossTechTask\CrossTechTask.EventLogger\obj\Debug\CrossTechTask.EventLogger.pdb
+D:\dev\CrossTechTask\CrossTechTask.EventLogger\bin\Debug\CrossTechTask.DataContracts.dll
+D:\dev\CrossTechTask\CrossTechTask.EventLogger\bin\Debug\CrossTechTask.DataContracts.pdb

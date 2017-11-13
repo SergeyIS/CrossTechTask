@@ -1,0 +1,14 @@
+D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe.config
+D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe
+D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.pdb
+D:\dev\CrossTechTask\CrossTechTask\obj\Debug\CrossTechTask.csprojResolveAssemblyReference.cache
+D:\dev\CrossTechTask\CrossTechTask\obj\Debug\CrossTechTask.exe
+D:\dev\CrossTechTask\CrossTechTask\obj\Debug\CrossTechTask.pdb
+D:\dev\CrossTechTask\CrossTechTask\obj\Debug\CrossTechTask.CrossTechTaskService.resources
+D:\dev\CrossTechTask\CrossTechTask\obj\Debug\CrossTechTask.csproj.GenerateResource.Cache
+D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.BusinessLogic.dll
+D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.EventLogger.dll
+D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.BusinessLogic.pdb
+D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.EventLogger.pdb
+D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.DataContracts.dll
+D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.DataContracts.pdb

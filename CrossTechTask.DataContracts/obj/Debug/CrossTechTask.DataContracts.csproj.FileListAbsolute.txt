@@ -1,0 +1,5 @@
+D:\dev\CrossTechTask\CrossTechTask.DataContracts\bin\Debug\CrossTechTask.DataContracts.dll
+D:\dev\CrossTechTask\CrossTechTask.DataContracts\bin\Debug\CrossTechTask.DataContracts.pdb
+D:\dev\CrossTechTask\CrossTechTask.DataContracts\obj\Debug\CrossTechTask.DataContracts.csprojResolveAssemblyReference.cache
+D:\dev\CrossTechTask\CrossTechTask.DataContracts\obj\Debug\CrossTechTask.DataContracts.dll
+D:\dev\CrossTechTask\CrossTechTask.DataContracts\obj\Debug\CrossTechTask.DataContracts.pdb

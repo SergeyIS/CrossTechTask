@@ -1,0 +1,7 @@
+D:\dev\CrossTechTask\CrossTechTask.BusinessLogic\bin\Debug\CrossTechTask.BusinessLogic.dll
+D:\dev\CrossTechTask\CrossTechTask.BusinessLogic\bin\Debug\CrossTechTask.BusinessLogic.pdb
+D:\dev\CrossTechTask\CrossTechTask.BusinessLogic\obj\Debug\CrossTechTask.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\dev\CrossTechTask\CrossTechTask.BusinessLogic\obj\Debug\CrossTechTask.BusinessLogic.dll
+D:\dev\CrossTechTask\CrossTechTask.BusinessLogic\obj\Debug\CrossTechTask.BusinessLogic.pdb
+D:\dev\CrossTechTask\CrossTechTask.BusinessLogic\bin\Debug\CrossTechTask.DataContracts.dll
+D:\dev\CrossTechTask\CrossTechTask.BusinessLogic\bin\Debug\CrossTechTask.DataContracts.pdb
