@@ -16,27 +16,27 @@ namespace CrossTechTask
             _logger.WriteLog("CrossTechTaskService was started");
 
             try
-            {
+            {   
                 //implementation of paragraph #1 (write key in registry)
                 _regController.WriteToLocalMachine("URL", "localhost", null);
+                _logger.WriteLog("wrote key in register: URL=localhost");
 
                 //implementation of paragraph #2 (leave the rights to read the registry key for only one user)
-                string user = Environment.UserDomainName + "\\" + Environment.UserName;
                 RegistrySecurity rs = new RegistrySecurity();
-                rs.AddAccessRule(new RegistryAccessRule(user,
-                    RegistryRights.ReadKey | RegistryRights.WriteKey | RegistryRights.WriteKey | RegistryRights.ChangePermissions | RegistryRights.ChangePermissions | RegistryRights.Delete,
+                rs.AddAccessRule(new RegistryAccessRule(Environment.UserName,
+                    RegistryRights.ReadKey | RegistryRights.WriteKey | RegistryRights.Delete | RegistryRights.ChangePermissions,
                     InheritanceFlags.None,
                     PropagationFlags.None,
                     AccessControlType.Allow));
 
-                //overwriting of key
-                _regController.WriteToLocalMachine("URL", "localhost", rs);
+                //overwriting of the key
+                _regController.ChangePermissions("URL", rs);
+                _logger.WriteLog("changed permission for key");
             }
             catch (Exception e)
             {
                 _logger.WriteLog("An error was occured in CrossTechTaskService", e);
             }
-
         }
 
         protected override void OnStop()

@@ -1,0 +1,26 @@
+﻿Выполняется установка сборки 'D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe
+   logfile = D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.InstallLog
+Устанавливается служба CrossTechTaskService...
+Служба CrossTechTaskService успешно установлена.
+Создается исходный EventLog CrossTechTaskService в журнале Application...
+Выполняется фиксация сборки 'D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe
+   logfile = D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.InstallLog
+Выполняется установка сборки 'D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe
+   logfile = D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.InstallLog
+Устанавливается служба CrossTechTaskService...
+Служба CrossTechTaskService успешно установлена.
+Создается исходный EventLog CrossTechTaskService в журнале Application...
+Выполняется фиксация сборки 'D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.exe
+   logfile = D:\dev\CrossTechTask\CrossTechTask\bin\Debug\CrossTechTask.InstallLog
